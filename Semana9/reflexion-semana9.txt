@@ -1,0 +1,18 @@
+Es importante que las plataformas tecnológicas utilizadas por las comunidades
+funcionen de manera estable y segura en un servidor porque de ello depende la
+continuidad, confiabilidad y protección de los servicios que ofrecen. Una
+plataforma estable garantiza que los usuarios puedan acceder a la información,
+participar en actividades y realizar trámites sin interrupciones, fallos o
+pérdidas de datos.
+
+Por su parte, la seguridad del servidor protege la plataforma frente a amenazas
+como ataques informáticos, accesos no autorizados, robo de información o modificaciones
+indebidas de los contenidos. Esto es especialmente relevante cuando se gestionan datos
+personales, registros de participación ciudadana o documentos importantes para la comunidad.
+
+Además, un servidor bien administrado permite realizar copias de seguridad, controlar
+el acceso de los usuarios y mantener el sistema actualizado, reduciendo el riesgo de
+incidentes que puedan afectar el funcionamiento de la plataforma. En consecuencia, la
+estabilidad y seguridad del servidor fortalecen la confianza de la comunidad, garantizan
+la disponibilidad permanente de los servicios y contribuyen al éxito de los procesos
+participativos y colaborativos.

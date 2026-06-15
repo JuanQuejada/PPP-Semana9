@@ -1,0 +1,10 @@
+Cuando ejecuto el node server.js, la terminal me muestra un menjase y se queda pausada sin poderle dar ordenes.
+
+El menjase que muestra la terminal es: "El servidor está ejecutandose correctamente en el puerto 3000".
+
+Cuando visito la ruta /estado, me sale lo siguiente:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
